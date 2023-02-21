@@ -1,0 +1,12 @@
+package switch_variables;
+
+public class Main {
+
+	public static void main(String[] args) {
+		String x = "water";
+		String y = "Kool-Aid";
+		
+		System.out.println("x: " + x);
+	}
+
+}
